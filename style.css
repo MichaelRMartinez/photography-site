@@ -73,5 +73,12 @@ a {
     justify-content: center;
     align-items: center;
 }
+body {
+    font-family: 'Ruhl', sans-serif;
+}
+
+h1 {
+    font-family: 'Vibes', sans-serif;
+}
 
 /*  */
