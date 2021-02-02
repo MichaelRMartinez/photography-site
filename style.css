@@ -372,6 +372,7 @@ footer h4{
 }
 
 @media screen and (max-width: 890px) {
+    /* FOOTER */
     footer ul {
         flex: 0 0 100%;
         justify-content: center;
@@ -478,5 +479,15 @@ footer h4{
     .gallery-head {
         display: none;
     }
+}
 
+@media screen and (min-width: 1700px) {
+    html {
+        --header1: 3rem;
+        --header2: 5rem;
+        --header3: 4rem;
+        --header4: 3rem;
+        --text: 3rem;
+        --big: 8rem;
+    }
 }
